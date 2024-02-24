@@ -4,7 +4,7 @@
 These files make up my term project for LIS 545. 
 "MOMA_data_2022" is a .xlsx file that lists all the works on view at the Museum of Modern Art on February 1, 2022. 
 "LIS 5454 Final Report" is a .pdf file that accompanies the data, explaining what it is, and what repository is suitable for it. 
-"Metadata" is an xml file that lists the structured metadata 
+"Metadata" is an xml file that describes the metadata of "MOMA_data_2022" through the DataCite metadata schema
 
 ## Usage
 This project could be used to identify demographics of the artists typically on view in major museum institutions. 
