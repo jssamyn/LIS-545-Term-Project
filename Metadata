@@ -1,1 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Ogozaly, Jack</creatorName>
+      <givenName>Jack</givenName>
+      <familyName>Ogozaly</familyName>
+    </creator>
+  </creators>
 
+  <titles>
+    <title xml:lang="en">MOMA Artworks on View</title>
+  </titles>
+  <publisher xml:lang="en">kaggle.com</publisher>
+  <publicationYear>2022</publicationYear>
+  <resourceType resourceTypeGeneral="Data"></resourceType>
+
+</resource>
